@@ -1,4 +1,4 @@
-import { Copy, FileText, ScanLine, BookOpen, Maximize2, Mail, CreditCard, Image, Megaphone, LayoutGrid, Package } from 'lucide-react';
+import { Copy, FileText, ScanLine, BookOpen, Maximize2, Mail, CreditCard, Image, Megaphone, LayoutGrid, Package, Shirt, Tag, Droplet, Gift, Gem, Square } from 'lucide-react';
 
 const services = [
   {
@@ -84,6 +84,62 @@ const services = [
     description: 'Custom packaging solutions to make your products stand out.',
     color: 'from-pink-500 to-rose-500',
     image: 'https://019b2fb8-1665-7ea5-8bd3-98413b3ec279.mochausercontent.com/packaging.png'
+  },
+  {
+    icon: CreditCard,
+    title: 'Student & Corporate ID Cards',
+    description: 'Professional ID cards with photo printing and custom designs for students and corporate employees.',
+    color: 'from-blue-500 to-indigo-500',
+    image: 'https://019b2fb8-1665-7ea5-8bd3-98413b3ec279.mochausercontent.com/id-cards.png'
+  },
+  {
+    icon: Shirt,
+    title: 'T-Shirt Printing',
+    description: 'Custom t-shirt printing with vibrant colors and premium quality designs for personal and corporate use.',
+    color: 'from-red-500 to-orange-500',
+    image: 'https://019b2fb8-1665-7ea5-8bd3-98413b3ec279.mochausercontent.com/tshirt-printing.png'
+  },
+  {
+    icon: Tag,
+    title: 'Tags Design',
+    description: 'Creative tag designs for products, events, and marketing campaigns. Perfect for branding.',
+    color: 'from-yellow-500 to-orange-500',
+    image: 'https://019b2fb8-1665-7ea5-8bd3-98413b3ec279.mochausercontent.com/tags-design.png'
+  },
+  {
+    icon: Droplet,
+    title: 'Water Bottle Printing',
+    description: 'Durable water bottle customization with your logos, designs, and text for corporate gifting.',
+    color: 'from-cyan-500 to-blue-500',
+    image: 'https://019b2fb8-1665-7ea5-8bd3-98413b3ec279.mochausercontent.com/water-bottle.png'
+  },
+  {
+    icon: Gift,
+    title: 'Gifts & Corporate Gifts',
+    description: 'Premium gift items and corporate gift solutions customized with your branding.',
+    color: 'from-pink-500 to-red-500',
+    image: 'https://019b2fb8-1665-7ea5-8bd3-98413b3ec279.mochausercontent.com/corporate-gifts.png'
+  },
+  {
+    icon: Gem,
+    title: 'Crystal',
+    description: 'Elegant crystal trophies, awards, and decorative items for recognition and branding.',
+    color: 'from-purple-500 to-blue-500',
+    image: 'https://019b2fb8-1665-7ea5-8bd3-98413b3ec279.mochausercontent.com/crystal.png'
+  },
+  {
+    icon: Square,
+    title: 'Foam Boards',
+    description: 'Lightweight foam boards for displays, signage, and presentation materials.',
+    color: 'from-green-500 to-cyan-500',
+    image: 'https://019b2fb8-1665-7ea5-8bd3-98413b3ec279.mochausercontent.com/foam-boards.png'
+  },
+  {
+    icon: Square,
+    title: 'Standees',
+    description: 'Custom standee displays for events, exhibitions, and promotional campaigns.',
+    color: 'from-indigo-500 to-purple-500',
+    image: 'https://019b2fb8-1665-7ea5-8bd3-98413b3ec279.mochausercontent.com/standees.png'
   }
 ];
 
