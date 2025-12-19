@@ -13,8 +13,8 @@ const features = [
   },
   {
     icon: Truck,
-    title: 'Free Shipping',
-    description: 'Free delivery on orders over $50. Track your order every step of the way.'
+    title: ' Shipping',
+    description: 'delivery on orders. Track your order every step of the way.'
   },
   {
     icon: Clock,
